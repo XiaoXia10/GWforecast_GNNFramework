@@ -1,6 +1,6 @@
 # Graph neural network framework for spatio-temporal groundwater level forecasting
 
-By: Xiao Xia Liang, Maxime Claprood, Erwan Gloaguen, Daniel Paradis and Thomas Béraud
+By: Xiao Xia Liang, Erwan Gloaguen, Maxime Claprood, Daniel Paradis and Dany Lauzon
 
 Framework is designed for monintoring and pumping well groundwater level forecasting.
 Data used for training the framework for this mauscript is simulated from a FEFLOW hydrogeological model.
